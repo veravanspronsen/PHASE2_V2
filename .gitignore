@@ -1,0 +1,7 @@
+*.owr
+*.owd
+*.sim
+.ipynb_checkpoints/
+*.log
+*.tmp
+*.bak
