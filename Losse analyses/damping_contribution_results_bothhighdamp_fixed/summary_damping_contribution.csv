@@ -1,0 +1,4 @@
+DOF,velocity_RMS,velocity_max_abs,linear_RMS,linear_max_abs,quadratic_RMS,quadratic_max_abs,total_RMS,total_max_abs,quadratic_to_linear_RMS_ratio,linear_contribution_percentage,quadratic_contribution_percentage
+heave,1.0497957,3.93432,4.199183,15.73728,8.951715,61.915493,12.848658,77.65277,2.1317756,31.93077,68.06924
+roll,2.2469687,6.23056,561.7422,1557.64,7670.809,38819.88,8198.091,40377.52,13.655391,6.823428,93.17658
+pitch,2.7193415,8.155504,679.8354,2038.8761,12244.347,66512.25,12875.574,68551.125,18.010752,5.2601814,94.73982
