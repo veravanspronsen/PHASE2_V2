@@ -1,0 +1,5 @@
+damp_config,heave_std_mean,heave_std_max,heave_max_mean,heave_max_max,pitch_std_mean,pitch_std_max,pitch_max_mean,pitch_max_max,roll_std_mean,roll_std_max,roll_max_mean,roll_max_max
+low,0.083,0.188,0.471,2.017,-0.644,-0.332,2.722,8.292,-0.94,-0.938,0.304,0.317
+linhigh,0.075,0.171,0.466,1.978,-0.667,-0.375,2.702,8.235,-0.94,-0.938,0.304,0.317
+quadhigh,0.082,0.185,0.469,1.998,-0.648,-0.343,2.698,8.164,-0.94,-0.938,0.304,0.317
+DOFbest,0.079,0.179,0.467,1.988,-0.656,-0.355,2.7,8.207,-0.94,-0.938,0.304,0.317
